@@ -1,6 +1,3 @@
-# README.md
-
-````markdown
 <div align="center">
 
 <!-- HEADER BANNER -->
@@ -1790,4 +1787,3 @@ quantumtrader/
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
-````
